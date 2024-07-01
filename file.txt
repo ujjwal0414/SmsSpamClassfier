@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>GoogleNews-vectors-negative300.bin.gz</Key><RequestId>D7KZ9NPBKG9QBB89</RequestId><HostId>cZixW2s6jJEixx/Ea62D0wEuomuNDY6/OCkA4NZv+sxThMkV+h1uzSwwYGZAn3L6qLsjgxOUq5s=</HostId></Error>
